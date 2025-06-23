@@ -2,7 +2,7 @@
 
 > ⚠️ **For Educational and Research Use Only**
 
-This repository is intended solely for cybersecurity education, red-teaming research, malware analysis training, and responsible experimentation in **isolated environments**.
+This repository is intended solely for cybersecurity education, red-teaming research, malware analysis study, and responsible experimentation in **isolated environments**.
 
 ---
 
